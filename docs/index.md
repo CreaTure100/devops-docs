@@ -12,5 +12,3 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://CreaTure100.github.io/devops-docs/`.
-
-Проверка: [битая ссылка](missing-page.md)
